@@ -1,0 +1,4 @@
+Este é um repositório para teste da GFT.
+Temos neste repositório uma pasta cmd apenas o codigo golang para executar uma pagina HTML
+Temos também neste repositório uma outra pasta terraform onde estão os codigos para subir uma instância e um bucket na AWS.
+O restante do código ainda está em criação.
